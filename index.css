@@ -1,0 +1,48 @@
+.header {
+    background: #f19292;
+    font-size: 31px;
+    text-align-last: center;
+    height: 50px;
+    line-height: 50px;
+    padding-left: 35px;
+    margin-top: -10px;
+    border: 10px double lightgreen;
+    color: moccasin;
+}
+#aaaa {
+   
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+    margin-bottom: initial;
+}
+th {
+    background: #FFCEFF;
+    height: 50px;
+    width: 100px;
+    color: white;
+}
+table {
+    border: #C9DDF3 solid 3px;
+    margin: 0 auto;
+}
+td {
+    height: 50px;
+    width: 160px;
+    text-align: center;
+    vertical-align: middle;
+}
+tr:nth-child(odd) {
+    background: #FFF783
+}
+tr:nth-child(even) {
+    background: beige
+}
+br {
+    color: red
+}
+.place {
+    color: red
+}
